@@ -1,22 +1,68 @@
-<<<<<<< HEAD
-# flutterproject
+# ☕ Istanbul Coffee Shop Flutter
 
-A new Flutter project.
+Istanbul Coffee Shop Flutter, Flutter kullanılarak geliştirilmiş modern ve responsive bir kahve uygulamasıdır.  
+Uygulama, kullanıcıların kahveleri görüntülemesine, detaylarını incelemesine, favorilere eklemesine ve sepete eklemesine olanak sağlar.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Proje Özellikleri
 
-A few resources to get you started if this is your first Flutter project:
+- Kahve listeleme (API tabanlı veri)
+- Kahve detay sayfası
+- Favorilere ekleme / çıkarma
+- Sepete ekleme / çıkarma
+- Arama ve kategori filtreleme (Sıcak / Soğuk)
+- Bildirim ekranı (örnek içerikler)
+- Responsive UI (mobil & web uyumlu)
+- Splash Screen
+- İstanbul lokasyon bilgisi
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# flutter-coffee-shop-ui
-Responsive Flutter coffee shop application with cart, favorites, filtering, and API-based coffee data.
->>>>>>> 242964102e02eb270085f1f79bc716a4b13ba0b6
+## 🛠️ Kullanılan Teknolojiler
+
+- Flutter
+- Dart
+- Material Design
+- HTTP (API bağlantısı)
+- ReadMore package
+- Iconsax package
+
+---
+
+## ⚙️ Kullanılan Flutter Sürümü
+
+```bash
+Flutter 3.41.7 (stable)
+Dart 3.11.5
+
+## 🚀 Projeyi Çalıştırma
+
+### 1. Projeyi klonlayın
+
+```bash
+git clone https://github.com/NursenaErcan/flutter-coffee-shop-ui.git
+cd flutter-coffee-shop-ui
+flutter pub get
+
+Uygulamayı Çalıştırma
+🔹 Web 
+flutter run -d chrome
+
+🔹 Android Emulator ile çalıştırma
+Emulator başlat:
+flutter emulators --launch Pixel_7
+
+Cihazları kontrol et:
+flutter devices
+Emulator ile çalıştır:
+flutter run -d emulator-5554
+
+🔹 Alternatif (otomatik cihaz seçimi)
+flutter run
+
+
+*Ekran görüntüleri proje içerisindeki screenshots/ klasöründe bulunmaktadır.
+
+
+
