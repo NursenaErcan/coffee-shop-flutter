@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # flutterproject
 
 A new Flutter project.
@@ -15,3 +16,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# flutter-coffee-shop-ui
+Responsive Flutter coffee shop application with cart, favorites, filtering, and API-based coffee data.
+>>>>>>> 242964102e02eb270085f1f79bc716a4b13ba0b6
